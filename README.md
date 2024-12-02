@@ -62,3 +62,4 @@ To run ServiceB, execute the following command:
 ```
 
 running the server using this command is make sure that we are running on the same port as the client excpected(serverA)
+for full use in this server (the option to send mnew messages) you have to open and run ServerA from this link https://github.com/YoniThee/TA9_WebSocket_MessageSender.git
